@@ -1,0 +1,289 @@
+@media only screen and (min-width:320px) and (max-width:767px){
+    footer .row {
+        display: block;
+    }
+    .footer {
+        height: auto;
+    }
+    h2.text-primary.font-weight-medium.m-0 {
+        top: 9px;
+        font-size: 17px;
+    }
+    h1.display-1.text-white.m-0 {
+        font-weight: bold;
+        font-size: 26px;
+        color: white !important;
+        position: absolute;
+        top: 60px;
+    }
+    .navbar {
+       
+        display: block;
+        flex-wrap: inherit;
+        align-items: none;
+        justify-content: none;
+        
+    }
+    h2.text-white.m-0 {
+        position: absolute;
+        top: 83px;
+        font-size: 20px;
+    }
+    nav.navbar.navbar-expand-xl.bg-secondary.navbar-dark {
+        padding: 10px !important;
+    }
+    .navbar-nav.ms-auto {
+        background: #c8841df2;
+        height: auto;
+        margin-top: -5px;
+    }
+    a.nav-link {
+        width: 20px;
+        height: 45px;
+    }
+    .carousel-item {
+        height: auto;
+    }
+    h4.main-header {
+        font-size: 18px;
+    }
+    h1.secondary-header {
+        font-size: 14px;
+    }
+    .service-text {
+        margin-top: 10px !important;
+    }
+    .prices a.nav-link {
+         width: auto !important;
+    }
+    .prices ul.nav.nav-tabs {
+        display: block;
+    }
+    .tavb {
+      
+         margin: 0px !important; 
+        padding: 10px; 
+    }
+    .row.pr-tile {
+        width: 100% !important;
+        padding: 20px;
+        margin: 0px;
+    }
+    .row.pr-tile {
+        box-shadow: none;
+       
+    }
+    .slide.slick-slide {
+         display: block; 
+    }
+    .reviews {
+        font-size: 15px;
+    }
+    .test-name {
+        font-size: 20px;
+    }
+    .testi-img .team-img {
+        width: 120px !important;
+        height: 120px !important;
+    }
+    .Our-team .slide.slick-slide {
+        display: flex;
+    }
+    h2.cof-lab {
+        font-size: 22px;
+    }
+    h2.cof-h {
+        font-size: 24px;
+    }
+    .navbar-dark .navbar-nav .nav-link, .navbar-dark .navbar-nav .show>.nav-link {
+        color: #fff;
+        border: 1px solid #e9ecef;
+        width: 100%;
+        height: 52px;
+        text-align: center;
+        padding: 0px !important;
+    }
+    .footer .container {
+        width: 100% !important;
+    }
+    .colfooter p {
+        font-size: 12px;
+    }
+    .services .img-fluid {
+        padding: 15px;
+        width: 100%;
+    }
+    .Our-team .slide {
+        width: 7% !important;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:1023px){
+    footer.footer {
+        height: auto !important;
+    }
+    .row {
+        display: block;
+    }
+    footer .row {
+        flex-wrap: wrap;
+    }
+    footer.footer .container {
+        width: 100%; 
+      
+    }
+    .col_footer h4 {
+        font-size: 14px;
+    }
+    .col_footer ul li a {
+      font-size: 12px;
+    }
+    .social-links a {
+       
+        height: 22px;
+        width: 22px;
+        line-height: 21px;
+    }
+    footer.footer {
+        padding: 20px 20px;
+    }
+    .footer .row1 {
+        height: auto;
+        line-height: 10px;
+    }
+    h4.main-header {
+        font-size: 20px;
+    }
+    h1.secondary-header {
+        font-size: 24px;
+    }
+    .reviews {
+        font-size: 16px;
+    }
+    .test-name {
+        font-size: 20px;
+    }
+    .testi-img .team-img {
+        width: 120px !important;
+        height: 120px !important;
+    }
+    .prices .nav {
+        flex-wrap: none;
+    }
+    
+    .prices a.nav-link {
+        padding: 7px 12px !important;
+        font-size: 17px;
+    }
+    .tavb {
+        width: 350px !important;
+        height: 200px;
+        border: 7px solid #e5c182;
+        padding: 10px;
+        margin-left: 53px !important;
+        margin-top: 18px !important;
+    }
+    .prices .row.pr-tile {
+        box-shadow: none !important;
+        border-radius: 30px;
+        background: #ea830e45;
+    }
+    .section-title {
+        padding: 11px 0 13px 0;
+    }
+    section.Testimonial {
+        margin-top: 0px !important;
+        
+    }
+    .services .img-fluid {
+        padding: 10px;
+        border-radius: 50%;
+    }
+    .my-services {
+        box-shadow: 1px 0px 0px 0px #e4dd5c;
+    }  
+    /* .services .row {
+        border: 1px solid #ffc10761;
+    }  */
+    .bannar .carousel-item {
+        height: auto !important;
+    }
+    h2.text-primary.font-weight-medium.m-0 {
+        top: 40px;
+        font-size: 45px;
+    }
+    h1.display-1.text-white.m-0 {
+       font-size: 60px;
+    }
+    .navbar-dark .navbar-brand {
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+    .navbar-nav.ms-auto {
+        background: #c3801c;
+        border: 1px solid #fff;
+        margin-top: -3px;
+        height: auto;
+    }
+    .bannar a.nav-item.nav-link {
+        text-align: center;
+        border: 1px solid #fff;
+    }
+    
+}
+@media only screen and (min-width:1024px) and (max-width:1300px){
+    footer.footer .container {
+        width: 100% !important;
+    }
+    .col_footer h4 {
+        font-size: 16px;
+    }
+    .col_footer ul li a {
+        font-size: 12px;
+    }
+    .colfooter p {
+        font-size: 12px;
+    }
+    .social-links a {
+        
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+     .navbar-nav.ms-auto {
+        /* background: #b0761c; */
+        margin-top: -3px;
+    }
+    a.nav-item.nav-link {
+        /* border: 1px solid #fff; */
+        text-align: center;
+    }
+    .navbar-dark .navbar-brand {
+        color: #fff;
+        font-weight: bold;
+    }
+    .my-services {
+         box-shadow: none;
+     
+    }
+    .services .img-fluid {
+        padding: 20px;
+        border-radius: 50%;
+    }
+    
+}
+@media only screen and (min-width:1301px) and (max-width:1400px){
+    .navbar-dark .navbar-brand {
+        color: #fff;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+    .services img.img-fluid {
+        border-radius: 50%;
+        padding: 30px;
+        width: 90% !important;
+    }
+    .my-services {
+         box-shadow: none;
+     
+    }
+}
